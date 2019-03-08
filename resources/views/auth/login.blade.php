@@ -7,7 +7,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Login</div>
                 <b-alert show>
-                    Por favor ingresa tus datos:
+                    Por favor capture sus datos:
                 </b-alert>
                 <div class="panel-body">
                     <form class="form-horizontal" method="POST" action="{{ route('login') }}">
